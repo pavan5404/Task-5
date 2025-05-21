@@ -29,3 +29,9 @@ The objective of this task is to perform Exploratory Data Analysis (EDA) on the 
 - Matplotlib
 - Seaborn
 
+---
+
+# Dataset Used
+
+- Student Social Media Addiction
+  
